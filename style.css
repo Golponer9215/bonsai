@@ -6,6 +6,9 @@ body{background-color: #bebaba5d;
     align-items: center;
     margin: 20px;
 }
+a{
+  text-decoration: none;
+}
 .drops{
   display: flex;
   gap: 20px;
@@ -78,3 +81,4 @@ body{background-color: #bebaba5d;
     width: 200px;
     height: 40px;
   }
+ 
